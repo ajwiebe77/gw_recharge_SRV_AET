@@ -1,6 +1,8 @@
 % AJW, 11 Jan 2019
 % Use the Villarini et al (2008) function with c1 = 1 (see Villarini et al (2010))
-
+% 
+% Code for GNU Octave (Eaton et al., 2018).
+%
 % input parameters
 % c = vector with two rows: c = [c2; c3]
 % (If vector lenght was 3, c(1) = nugget (but fixed at 1, here))
