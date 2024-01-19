@@ -1,5 +1,7 @@
 % AJW, 11 Jan 2019
 % Use the Li et al (2013) mixed exponential equation.
+% 
+% Code for GNU Octave (Eaton et al., 2018).
 %
 % input parameters:
 % x = rainfall depth (mm)
