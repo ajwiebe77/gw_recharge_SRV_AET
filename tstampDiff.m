@@ -1,11 +1,19 @@
 % tstampDiff.m
 % AJW, 20 Jul 2020; modifies tstampDiff.m, 19 Mar 2015
+% 
+% Code for GNU Octave (Eaton et al., 2018).
 %
 % A function that returns the difference between two timestamps (in hours), 
 %    i.e., dd2-mh2-yyyy2 hh2:mm2 - dd1-mh1-yyyy1 hh1:mm1
 % Returns a positive value if timestamp 2 > timestamp 1
 % If one of the timestamps is unreasonable, return error code -9999
 % Assumes a 24h clock
+%
+% References:
+% Eaton, J.W., Bateman, D., Hauberg, S., Wehbring, R., 2018. GNU Octave. Edition 5 for Octave version 5.1.0. Manual for
+%    high-level interactive language for numerical computations. https://www.gnu.org/software/octave/download.html. February 2019.
+%
+
 function diff = tstampDiff(dd1, mh1, yyyy1, hh1, mm1, dd2, mh2, yyyy2, hh2, mm2)
    
    % --------------------------------------------------------------
