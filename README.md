@@ -7,6 +7,12 @@ Author: Andrew J. Wiebe, 29 May 2023
 
 Licence: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)
 
+** NOTE: **
+** 28 Oct 2024 **
+** This archive has been superceded by the updated version at https://doi.org/10.17632/stbtg4hnv9.1: **
+** Wiebe, A., 2024. Scripts for calculating groundwater recharge via a stochastic vadose zone water budget, Mendeley Data, V1, doi: 10.17632/stbtg4hnv9.1. **
+** Please refer to the updated version instead of this one. **
+
 
 INTRODUCTION
 
